@@ -22,6 +22,7 @@ const mensaje = document.getElementById("mensajeEdad");
 console.log(mensaje);
 
 
+
 //2da forma es mediante eventos y crean funciones asociadas
 function verificarEdad(){
     //Yo quiero que cada que le de click al botón, me salga un mensaje de "hola"
