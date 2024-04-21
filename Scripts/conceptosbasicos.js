@@ -30,7 +30,7 @@ let texto = "hola mundo";
 
 //Booleanos -> Dato que fuede ser o verdadero o falso
 
-let esVerdadero = true;
+let es,Verdadero = true;
 let esFAlso = false;
 
 //Booleanos -> un dato que puede ser o verdadero o falso 
