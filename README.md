@@ -13,11 +13,11 @@ A continuacion estaremos desarrollando el paso a paso para conectar mi repositor
    -comandos
     1. Git init- para inicializar mi repositorio local
     2. Git add . - se usa para agregar cambios al entorno de preparacion
-    3. Git commit - nos permite poner un mensaje pero ademas significa que sus archivos estan listos para enviarse al repositorio remoto
+    3. Git commit - nos permite poner un mensaje pero ademas significa que sus archivos estan listos para enviarse al repositorio remoto--
     ej:  git commiit -m "lo que esta dentro de las comillas es lo que edito"
     4. Git status muestra el estado de mis archivos
     5. Gitt remote add origin -> me conecta con el repositorio en internet, el remoto 
-    ej: https://github.com/Katta17/actividadclase.git
+    ej: Gitt remote add origin https://github.com/Katta17/actividadclase.git
     6. Git push -u origin main -> me envia los cambios a la rama main en mi github (me sube todo a internet)
     
 
